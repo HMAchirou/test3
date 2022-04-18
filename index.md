@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8"/>
-<link rel="stylesheet" href="mise_en_forme.css">
+<link rel="stylesheet" href="style.css">
 <title>CV en ligne</title>
 </head>
 <body>
