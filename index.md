@@ -1,9 +1,8 @@
-<!doctype html>
+
 <html>
 <head>
 <meta charset="utf-8"/>
 <link rel="stylesheet" href="style.css">
-<title>CV en ligne</title>
 </head>
 <body>
 	<div class="deux" style="background:yellow";><p><img src="achirou.jpg" class="un" alt="photo de achirou" width="125 cm" hspace="150" vspace="15"></p><br><h2>Harouna Achirou</h2>
